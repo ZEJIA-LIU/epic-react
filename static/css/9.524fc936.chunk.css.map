@@ -1,0 +1,1 @@
+{"version":3,"sources":["List.css"],"names":[],"mappings":"AAAA,cACI,WAAY,CACd,YAAa,CACb,kBAAmB,CACnB,qBACF","file":"9.524fc936.chunk.css","sourcesContent":[".historyImage{\n    width: 100px;\n  height: 120px;\n  object-fit: contain;\n  border: 1px solid #eee;\n}"]}
